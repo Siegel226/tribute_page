@@ -1,1 +1,1 @@
-This is a tribute page for Julius Augustus Caesar done with [FreeCodeCamp.org](https://learn.freecodecamp.org/)
+This is a tribute page for Gaius Julius Caesar, done with [FreeCodeCamp.org](https://learn.freecodecamp.org/)
